@@ -1,0 +1,9 @@
+    Hi if you want to use my tool follow the instructions:  
+1- The first step for me is to download Google Drive
+2. The second step is to download the Python files
+My Mac commands: sudo easy _install pip, pip install selenium
+My Linux commands are: apt-get install pip, pip install selenium
+My Windows commands: I load a python on the machine and get a pip
+Important to have Google Drive in the same file tool that needs to be modified by the program
+Enjoy my gadget
+Programmed by my cj
